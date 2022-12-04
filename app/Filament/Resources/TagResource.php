@@ -22,6 +22,7 @@ use Illuminate\Support\Str;
 class TagResource extends Resource
 {
     protected static ?string $model = Tag::class;
+    protected static ?string $recordTitleAttribute = 'name';
 
     protected static ?string $navigationIcon = 'heroicon-o-collection';
 
@@ -45,7 +46,7 @@ class TagResource extends Resource
         return $table
             ->columns([
                 TextColumn::make('id')->sortable(),
-                TextColumn::make('name')->limit(50)->sortable(),
+                TextColumn::make('name')->limit(50)->sortable()->searchable(),
                 TextColumn::make('slug')->limit(50),
             ])
             ->filters([
