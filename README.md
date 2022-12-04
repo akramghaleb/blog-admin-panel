@@ -19,24 +19,24 @@
 
 | Web Screens                                |
 |--------------------------------------------|
-| ![Project Screenshot 2](screenshot/1.PNG)  |
-| ![Project Screenshot 2](screenshot/2.PNG)  |
-| ![Project Screenshot 2](screenshot/3.PNG)  |
-| ![Project Screenshot 2](screenshot/4.PNG)  |
-| ![Project Screenshot 2](screenshot/5.PNG)  |
-| ![Project Screenshot 2](screenshot/6.PNG)  |
-| ![Project Screenshot 2](screenshot/7.PNG)  |
-| ![Project Screenshot 2](screenshot/8.PNG)  |
-| ![Project Screenshot 2](screenshot/9.PNG)  |
-| ![Project Screenshot 2](screenshot/10.PNG) |
-| ![Project Screenshot 2](screenshot/11.PNG) |
-| ![Project Screenshot 2](screenshot/12.PNG) |
-| ![Project Screenshot 2](screenshot/13.PNG) |
-| ![Project Screenshot 2](screenshot/14.PNG) |
-| ![Project Screenshot 2](screenshot/15.PNG) |
-| ![Project Screenshot 2](screenshot/16.PNG) |
-| ![Project Screenshot 2](screenshot/17.PNG) |
-| ![Project Screenshot 2](screenshot/18.PNG) |
-| ![Project Screenshot 2](screenshot/19.PNG) |
-| ![Project Screenshot 2](screenshot/20.PNG) |
+| ![Project Screenshot 2](screenshot/1.png)  |
+| ![Project Screenshot 2](screenshot/2.png)  |
+| ![Project Screenshot 2](screenshot/3.png)  |
+| ![Project Screenshot 2](screenshot/4.png)  |
+| ![Project Screenshot 2](screenshot/5.png)  |
+| ![Project Screenshot 2](screenshot/6.png)  |
+| ![Project Screenshot 2](screenshot/7.png)  |
+| ![Project Screenshot 2](screenshot/8.png)  |
+| ![Project Screenshot 2](screenshot/9.png)  |
+| ![Project Screenshot 2](screenshot/10.png) |
+| ![Project Screenshot 2](screenshot/11.png) |
+| ![Project Screenshot 2](screenshot/12.png) |
+| ![Project Screenshot 2](screenshot/13.png) |
+| ![Project Screenshot 2](screenshot/14.png) |
+| ![Project Screenshot 2](screenshot/15.png) |
+| ![Project Screenshot 2](screenshot/16.png) |
+| ![Project Screenshot 2](screenshot/17.png) |
+| ![Project Screenshot 2](screenshot/18.png) |
+| ![Project Screenshot 2](screenshot/19.png) |
+| ![Project Screenshot 2](screenshot/20.png) |
   
